@@ -89,12 +89,12 @@
         
 ## 🗂️ Meine Projekte
 
-| Projektabschluss | 🌐 Live Ansicht | 👉 Repository |
-| --- | --- | --- |
-| Juni 2026 | 🌐 [Elenas Pokédex](https://elenah-2026.github.io/pokedex/) | 👉 [Elenas Pokédex](https://github.com/ElenaH-2026/pokedex) |
-| April 2026 | 🌐 [BestellAPP](https://elenah-2026.github.io/bestellapp/) | 👉 [BestellAPP](https://github.com/ElenaH-2026/bestellapp) |
-| März 2026 | 🌐 [Bookstore](https://elenah-2026.github.io/bookstore/) | 👉 [Bookstore](https://github.com/ElenaH-2026/bookstore) |
-| März 2026 | 🌐 [Elenas & Michis Reisefotos](https://elenahiener.developerakademie.net/modul-6_2026-02_fotogram/2026-02_fotogram/) | 👉 [Elenas & Michis Reisefotos](https://github.com/ElenaH-2026/fotogram) |
-| Januar 2026 | 🌐 [Sakura Ramen](https://elenah-2026.github.io/SakuraRamen/) | 👉 [Sakura Ramen](https://github.com/ElenaH-2026/SakuraRamen) |
+| 📅 Projektabschluss | 🌐 Live Ansicht | 👉 Repository | 🎨 Frontend |
+| --- | --- | --- | --- |
+| Juni 2026 | 🌐 [Elenas Pokédex](https://elenah-2026.github.io/pokedex/) | 👉 [Elenas Pokédex](https://github.com/ElenaH-2026/pokedex) | 🟣 CSS 🟠 HTML 🟡 JavaScript 💾 PokéAPI |
+| April 2026 | 🌐 [BestellAPP](https://elenah-2026.github.io/bestellapp/) | 👉 [BestellAPP](https://github.com/ElenaH-2026/bestellapp) | 🟣 CSS 🟠 HTML 🟡 JavaScript |
+| März 2026 | 🌐 [Bookstore](https://elenah-2026.github.io/bookstore/) | 👉 [Bookstore](https://github.com/ElenaH-2026/bookstore) | 🟣 CSS 🟠 HTML 🟡 JavaScript |
+| März 2026 | 🌐 [Elenas & Michis Reisefotos](https://elenahiener.developerakademie.net/modul-6_2026-02_fotogram/2026-02_fotogram/) | 👉 [Elenas & Michis Reisefotos](https://github.com/ElenaH-2026/fotogram) | 🟣 CSS 🟠 HTML 🟡 JavaScript |
+| Januar 2026 | 🌐 [Sakura Ramen](https://elenah-2026.github.io/SakuraRamen/) | 👉 [Sakura Ramen](https://github.com/ElenaH-2026/SakuraRamen) | 🟣 CSS 🟠 HTML |
 
 
