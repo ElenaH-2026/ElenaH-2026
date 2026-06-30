@@ -1,28 +1,48 @@
-## hello world 👋 => This is my README
-
-<!--
-**ElenaH-2026/ElenaH-2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElenaH-2026&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+# Elena Hiener
+
+
+### 👩‍💻 Frontend-Entwicklerin auf dem Weg zum Fullstack 👩‍💻<br>🧢 Certified Scrum Master und Product Owner🧢<br>📅 9 Jahre Projektmanagement 📅
+
+## 🎯 Die perfekte Schnittstelle zwischen Code, Agilität & Business 🎯
+
 </div>
 
-###
+> [!NOTE] 
+>
+>
+>☀️ *Meiner Lebensphilosophie:*
+>- Herausforderungen mit Begeisterung und einem Lächeln anzugehen.
+>
+>💪 *Was mich auszeichnet:*
+>- **Struktur & Code-Qualität:**
+<br>Ich programmiere mit System. Inspiriert durch „Clean Code“ von Robert C. Martin ist es mein Anspruch, leicht verständlichen, gut strukturierten und sauberen Code zu schreiben.
+>- **Agiles Mindset:** 
+<br>Als Certified Scrum Master kenne ich die Dynamik moderner Entwicklerteams und weiß, wie wertschaffende, agile Zusammenarbeit auf Augenhöhe funktioniert.
+>- **Organisation & Kommunikation:**
+<br>Durch 9 Jahre Projektmanagement-Erfahrung denke ich lösungsorientiert, behalte stets den Überblick und schlage die Brücke zwischen Business-Anforderungen und Code.
+>
+>🔎 *Was ich suche:*
+>- Eine Position, in der ich mein Organisations- und Kommunikationstalent einbringen und im Team als Frontend-Entwicklerin (in Weiterbildung) exzellenten Code schreiben kann.
+
+> [!IMPORTANT]
+>*Sie suchen:*
+><br>**🚀 Clean Code gepaart mit Struktur, Agilität und positiver Energie für Ihr Tech-Team**
+><br>🤝 **Ich freue mich auf spannende Kontakte und Angebote!**
+><br><br>📧 Email: [hiener.elena@web.de](mailto:hiener.elena@web.de)
+><br>🔗 LinkedIn: [elena-hiener](https://de.linkedin.com/in/elena-hiener)
+
+
+## 💻 Tech Stack / 🛠️ Tools & Workflow
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="40" alt="trello logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
@@ -46,6 +66,16 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElenaH-2026&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+
+
 ###
 
 <div align="center">
@@ -54,3 +84,17 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+
+        
+## 🗂️ Meine Projekte
+
+| Projektabschluss | 🌐 Live Ansicht | 👉 Repository |
+| --- | --- | --- |
+| Juni 2026 | 🌐 [Elenas Pokédex](https://elenah-2026.github.io/pokedex/) | 👉 [Elenas Pokédex](https://github.com/ElenaH-2026/pokedex) |
+| April 2026 | 🌐 [BestellAPP](https://elenah-2026.github.io/bestellapp/) | 👉 [BestellAPP](https://github.com/ElenaH-2026/bestellapp) |
+| März 2026 | 🌐 [Bookstore](https://elenah-2026.github.io/bookstore/) | 👉 [Bookstore](https://github.com/ElenaH-2026/bookstore) |
+| März 2026 | 🌐 [Elenas & Michis Reisefotos](https://elenahiener.developerakademie.net/modul-6_2026-02_fotogram/2026-02_fotogram/) | 👉 [Elenas & Michis Reisefotos](https://github.com/ElenaH-2026/fotogram) |
+| Januar 2026 | 🌐 [Sakura Ramen](https://elenah-2026.github.io/SakuraRamen/) | 👉 [Sakura Ramen](https://github.com/ElenaH-2026/SakuraRamen) |
+
+
