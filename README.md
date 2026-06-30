@@ -1,14 +1,12 @@
 <div align="center">
 
-# Elena Hiener
+# ELENA HIENER
 
 ### 👩‍💻<br>Frontend-Entwicklerin auf dem Weg zum Fullstack<br>🧢<br>Certified Scrum Master und Product Owner<br>📅<br>9 Jahre Projektmanagement
 
 <img/>
 
 ## Die perfekte Schnittstelle zwischen Code, Agilität & Business<br>🎯 🎯 🎯
-
-
 
 </div>
 
@@ -30,7 +28,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
-
 
 ### 🛠️ Tools & Workflow:
 
@@ -61,10 +58,6 @@ Früher:
 ### 🗂️ Meine Projekte
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElenaH-2026&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-<img/>
-<div align="center">
   
 | 📅 Projektdatum | 🌐 Live Ansicht | 👉 Repository | 🎨 Frontend |
 | --- | --- | --- | --- |
@@ -74,6 +67,10 @@ Früher:
 | März 2026 | 🌐 [Elenas & Michis Reisefotos](https://elenahiener.developerakademie.net/modul-6_2026-02_fotogram/2026-02_fotogram/) | 👉 [Elenas & Michis Reisefotos](https://github.com/ElenaH-2026/fotogram) | 🟠 HTML 🟣 CSS 🟡 JavaScript |
 | Januar 2026 | 🌐 [Sakura Ramen](https://elenah-2026.github.io/SakuraRamen/) | 👉 [Sakura Ramen](https://github.com/ElenaH-2026/SakuraRamen) | 🟠 HTML 🟣 CSS |
 
+</div>
+<img/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElenaH-2026&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ---
