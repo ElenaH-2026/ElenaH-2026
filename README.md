@@ -66,16 +66,12 @@ Früher:
   
 | 📅 Projektdatum | 🌐 Live Ansicht | 👉 Repository | 🎨 Frontend |
 | --- | --- | --- | --- |
-| Juni 2026 | 🌐 [Elenas Pokédex](https://elenah-2026.github.io/pokedex/) | 👉 [Elenas Pokédex](https://github.com/ElenaH-2026/pokedex) | 🟠 HTML 🟣 CSS 🟡 JavaScript 💾 PokéAPI |
-| April 2026 | 🌐 [BestellAPP](https://elenah-2026.github.io/bestellapp/) | 👉 [BestellAPP](https://github.com/ElenaH-2026/bestellapp) | 🟠 HTML 🟣 CSS 🟡 JavaScript |
-| März 2026 | 🌐 [Bookstore](https://elenah-2026.github.io/bookstore/) | 👉 [Bookstore](https://github.com/ElenaH-2026/bookstore) | 🟠 HTML 🟣 CSS 🟡 JavaScript |
-| März 2026 | 🌐 [Elenas & Michis Reisefotos](https://elenahiener.developerakademie.net/modul-6_2026-02_fotogram/2026-02_fotogram/) | 👉 [Elenas & Michis Reisefotos](https://github.com/ElenaH-2026/fotogram) | 🟠 HTML 🟣 CSS 🟡 JavaScript |
-| Januar 2026 | 🌐 [Sakura Ramen](https://elenah-2026.github.io/SakuraRamen/) | 👉 [Sakura Ramen](https://github.com/ElenaH-2026/SakuraRamen) | 🟠 HTML 🟣 CSS |
+| Juni 2026 | 🌐 [Elenas Pokédex - Live](https://elenah-2026.github.io/pokedex/) | 👉 [Elenas Pokédex - Repo](https://github.com/ElenaH-2026/pokedex) | 🟠 `HTML` 🟣 `CSS` 🟡 `JavaScript` 💾 `PokéAPI` |
+| April 2026 | 🌐 [BestellAPP - Live](https://elenah-2026.github.io/bestellapp/) | 👉 [BestellAPP - Repo](https://github.com/ElenaH-2026/bestellapp) | 🟠 `HTML` 🟣 `CSS` 🟡 `JavaScript` |
+| März 2026 | 🌐 [Bookstore - Live](https://elenah-2026.github.io/bookstore/) | 👉 [Bookstore - Repo](https://github.com/ElenaH-2026/bookstore) | 🟠 `HTML` 🟣 `CSS` 🟡 `JavaScript` |
+| März 2026 | 🌐 [Fotogram - Live](https://elenahiener.developerakademie.net/modul-6_2026-02_fotogram/2026-02_fotogram/) | 👉 [Fotogram - Repo](https://github.com/ElenaH-2026/fotogram) | 🟠 `HTML` 🟣 `CSS` 🟡 `JavaScript` |
+| Januar 2026 | 🌐 [Sakura Ramen - Live](https://elenah-2026.github.io/SakuraRamen/) | 👉 [Sakura Ramen - Repo](https://github.com/ElenaH-2026/SakuraRamen) | 🟠 `HTML` 🟣 `CSS` |
 
-</div>
-<img/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElenaH-2026&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ---
