@@ -79,7 +79,7 @@ Früher:
 > [!NOTE] 
 >
 >
->☀️ *Meiner Lebensphilosophie:*
+>☀️ *Meine Lebensphilosophie:*
 >- Herausforderungen mit Begeisterung und einem Lächeln anzugehen.
 >
 >💪 *Was mich auszeichnet:*
