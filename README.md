@@ -72,12 +72,12 @@ Früher:
   
 | 📅 Start| 📦 Release | 🌐 Live Ansicht | 👉 Repository | 🎨 Core Technologies |
 | --- | --- | --- | --- | --- |
-| 2026 Jul | 🏷️ v0.1.0-alpha | 🌐 [QuizApp - Live](https://elenah-2026.github.io/quiz-app/) | 👉 [QuizApp - Repo](https://github.com/ElenaH-2026/quiz-app) | 🟠`HTML` 🟣`CSS` 🟡`JavaScript` 🟢`Node.js` |
-| 2026 Jun | 🏷️ v1.0.0 | 🌐 [Elenas Pokédex - Live](https://elenah-2026.github.io/pokedex/) | 👉 [Elenas Pokédex - Repo](https://github.com/ElenaH-2026/pokedex) | 🟠`HTML` 🟣`CSS` 🟡`JavaScript` 💾`PokéAPI` |
-| 2026 Apr | 🏷️ v1.0.0 | 🌐 [BestellAPP - Live](https://elenah-2026.github.io/bestellapp/) | 👉 [BestellAPP - Repo](https://github.com/ElenaH-2026/bestellapp) | 🟠`HTML` 🟣`CSS` 🟡`JavaScript` |
-| 2026 Mrz | 🏷️ v1.0.0 | 🌐 [Bookstore - Live](https://elenah-2026.github.io/bookstore/) | 👉 [Bookstore - Repo](https://github.com/ElenaH-2026/bookstore) | 🟠`HTML` 🟣`CSS` 🟡`JavaScript` |
-| 2026 Mrz | 🏷️ v1.0.0 | 🌐 [Fotogram - Live](https://elenahiener.developerakademie.net/modul-6_2026-02_fotogram/2026-02_fotogram/) | 👉 [Fotogram - Repo](https://github.com/ElenaH-2026/fotogram) | 🟠`HTML` 🟣`CSS` 🟡`JavaScript` |
-| 2026 Jan | 🏷️ v1.0.0 | 🌐 [Sakura Ramen - Live](https://elenah-2026.github.io/SakuraRamen/) | 👉 [Sakura Ramen - Repo](https://github.com/ElenaH-2026/SakuraRamen) | 🟠`HTML` 🟣`CSS` |
+| 2026 Jul | 🏷️ [v0.1.0-alpha](https://github.com/ElenaH-2026/quiz-app/releases) | 🌐 [QuizApp - Live](https://elenah-2026.github.io/quiz-app/) | 👉 [QuizApp - Repo](https://github.com/ElenaH-2026/quiz-app) | 🟠`HTML` 🟣`CSS` 🟡`JavaScript` 🟢`Node.js` |
+| 2026 Jun | 🏷️ [v1.0.0](https://github.com/ElenaH-2026/pokedex/releases) | 🌐 [Elenas Pokédex - Live](https://elenah-2026.github.io/pokedex/) | 👉 [Elenas Pokédex - Repo](https://github.com/ElenaH-2026/pokedex) | 🟠`HTML` 🟣`CSS` 🟡`JavaScript` 💾`PokéAPI` |
+| 2026 Apr | 🏷️ [v1.0.0](https://github.com/ElenaH-2026/bestellapp/releases) | 🌐 [BestellAPP - Live](https://elenah-2026.github.io/bestellapp/) | 👉 [BestellAPP - Repo](https://github.com/ElenaH-2026/bestellapp) | 🟠`HTML` 🟣`CSS` 🟡`JavaScript` |
+| 2026 Mrz | 🏷️ [v1.0.0](https://github.com/ElenaH-2026/bookstore/releases) | 🌐 [Bookstore - Live](https://elenah-2026.github.io/bookstore/) | 👉 [Bookstore - Repo](https://github.com/ElenaH-2026/bookstore) | 🟠`HTML` 🟣`CSS` 🟡`JavaScript` |
+| 2026 Mrz | 🏷️ [v1.0.0](https://github.com/ElenaH-2026/fotogram/releases) | 🌐 [Fotogram - Live](https://elenahiener.developerakademie.net/modul-6_2026-02_fotogram/2026-02_fotogram/) | 👉 [Fotogram - Repo](https://github.com/ElenaH-2026/fotogram) | 🟠`HTML` 🟣`CSS` 🟡`JavaScript` |
+| 2026 Jan | 🏷️ [v1.0.0](https://github.com/ElenaH-2026/SakuraRamen/releases) | 🌐 [Sakura Ramen - Live](https://elenah-2026.github.io/SakuraRamen/) | 👉 [Sakura Ramen - Repo](https://github.com/ElenaH-2026/SakuraRamen) | 🟠`HTML` 🟣`CSS` |
 
 </div>
 
