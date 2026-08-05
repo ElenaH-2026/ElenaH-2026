@@ -72,6 +72,7 @@ Früher:
   
 | 📅 Start| 📦 Release | 🌐 Live Ansicht | 👉 Repository | 🎨 Core Technologies |
 | --- | --- | --- | --- | --- |
+| 2026 Aug | 🏷️ --- | 🌐 [Join - Live](https://romanbuchdev.github.io/Join/) | 👉 [Join - Repo](https://github.com/RomanbuchDev/Join) | 🟠`HTML` 🟣`CSS` 🟡`JavaScript` 🔥`Firebase` |
 | 2026 Jul | 🏷️ [v0.1.0-alpha](https://github.com/ElenaH-2026/quiz-app/releases) | 🌐 [QuizApp - Live](https://elenah-2026.github.io/quiz-app/) | 👉 [QuizApp - Repo](https://github.com/ElenaH-2026/quiz-app) | 🟠`HTML` 🟣`CSS` 🟡`JavaScript` 🟢`Node.js` |
 | 2026 Jun | 🏷️ [v1.0.0](https://github.com/ElenaH-2026/pokedex/releases) | 🌐 [Elenas Pokédex - Live](https://elenah-2026.github.io/pokedex/) | 👉 [Elenas Pokédex - Repo](https://github.com/ElenaH-2026/pokedex) | 🟠`HTML` 🟣`CSS` 🟡`JavaScript` 💾`PokéAPI` |
 | 2026 Apr | 🏷️ [v1.0.0](https://github.com/ElenaH-2026/bestellapp/releases) | 🌐 [BestellAPP - Live](https://elenah-2026.github.io/bestellapp/) | 👉 [BestellAPP - Repo](https://github.com/ElenaH-2026/bestellapp) | 🟠`HTML` 🟣`CSS` 🟡`JavaScript` |
